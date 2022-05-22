@@ -20,7 +20,7 @@ Olá, eu sou Luiz Henrique Birck Vicari, sou estudante de Engenharia de Computa�
 :seedling: Estou estudando desenvolvimento web, design UX e hacking ético
 
 :us::</br>
-Hello, I`m Luiz Henrique Birck Vicari, I`m a student of Computer Engineering, I`m currently in 6th period of 10. I was born in Pato Branco, Paraná, Brazil, but I live in Coronel Vivida, Paraná.
+Hello, I'm Luiz Henrique Birck Vicari, I'm a student of Computer Engineering, I`m currently in 6th period of 10. I was born in Pato Branco, Paraná, Brazil, but I live in Coronel Vivida, Paraná.
 :telescope: Currently I am just developing programs for college assignments.
 :seedling: I am studying web development, UX design and ethical hacking
 
