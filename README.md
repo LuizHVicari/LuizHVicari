@@ -5,7 +5,7 @@
           <p>Olá, eu sou Luiz Henrique Birck Vicari, sou estudante de Engenharia de Computação, atualmente no 6º período de 10. Sou natural de Pato Branco, Paraná, Brasil, mas moro em Coronel Vivida, Paraná.</p>
           <p>:latin_cross:: Minha religião é Cristã.</p>
           <p>:telescope: Atualmente estou apenas desenvolvendo programas para trabalhos da faculdade.</p>
-          <p>:seedling: Estou estudando desenvolvimento web, design UX e hacking ético.</p>
+          <p>:seedling: Estou estudando desenvolvimento web backend com Django e ciência de dados.</p>
           <p>:desktop_computer:: Meu ambiente de trabalho preferido é o Visual Studio Code, porém já trabalhei com Pycharm, IntellijIdea, CodeBlocks e Code Composer Studio</p>
 </div>
 
@@ -14,7 +14,7 @@
           <p>Hello, I'm Luiz Henrique Birck Vicari, I'm a student of Computer Engineering, I'm currently in 6th period of 10. I was born in Pato Branco, Paraná, Brazil, but I live in Coronel Vivida, Paraná.</p>
           <p>:latin_cross: My religion is Christianity.</p>
           <p>:telescope: Currently I am just developing programs for college assignments.</p>
-          <p>:seedling: I am studying web development, UX design and ethical hacking.</p>
+          <p>:seedling: I am studying backend web development using Django and Data Science</p>
           <p>:desktop_computer:: My preferred working environment is Visual Studio Code, however I have worked with Pycharm, IntellijIdea, CodeBlocks and Code Composer Studio</p>
 </div>
 <div>
