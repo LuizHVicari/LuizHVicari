@@ -26,15 +26,6 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="10%"/> 
           </p>
 </div>
-<div>
-          <p>Estou aprendendo ou tenho interesse / I'm learning or I'm willing to learn:</p>
-          <p>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="10%"/>  
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="10%"/>   
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="10%"/>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="10%"/>
-          </p>
-</div>
 
 Meu status atual no Github / My current status on Github:<p>
 ![LuizHVicari Status](https://github-readme-stats.vercel.app/api?username=LuizHVicari&show_icons=true)<p>
