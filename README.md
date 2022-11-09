@@ -29,5 +29,5 @@
 
 Meu status atual no Github / My current status on Github:<p>
 ![LuizHVicari Status](https://github-readme-stats.vercel.app/api?username=LuizHVicari&show_icons=true)<p>
-Minhas linguagens mais comuns / My most common languages:<p>
+Minhas linguagens de programação mais comuns / My most common programming languages:<p>
 ![Most common languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHVicari)
