@@ -2,20 +2,18 @@
 <b>This README file is available in Portuguese and English</b>
 <div>
           <p>:brazil::</p>
-          <p>Olá, eu sou Luiz Henrique Birck Vicari, sou estudante de Engenharia de Computação, atualmente no 8º período de 10. Sou natural de Pato Branco, Paraná, Brasil, mas moro em Coronel Vivida, Paraná.</p>
+          <p>Olá, eu sou Luiz Henrique Birck Vicari, sou graduado em Engenharia de Computação, e atualmente estou fazendo meu mestrado no Programa de Pós Graduação em Engenharia Elétrica e da Computação, pela UTFPR e cursando a especialização em programação para dispositivos móveis na mesma universidade. Sou natural de Pato Branco, Paraná, Brasil.</p>
           <p>:latin_cross:: Minha religião é Cristã.</p>
-          <p>:telescope: Atualmente estou desenvolvendo programas para trabalhos da faculdade.</p>
-          <p>:seedling: Estou estudando desenvolvimento web backend com Django e ciência de dados.</p>
-          <p>:desktop_computer:: Meu ambiente de trabalho preferido é o Visual Studio Code, porém já trabalhei com Pycharm, IntellijIdea, CodeBlocks e Code Composer Studio</p>
+          <p>:telescope: Atualmente estou desenvolvendo projetos pessoais e para os meus estudos.</p>
+          <p>:seedling: Estou estudando desenvolvimento web backend e ciência de dados.</p>
 </div>
 
 <div>
           <p>:us::</p>
-          <p>Hello, I'm Luiz Henrique Birck Vicari, I'm a student of Computer Engineering, I'm currently in 8th period of 10. I was born in Pato Branco, Paraná, Brazil, but I live in Coronel Vivida, Paraná.</p>
+          <p>Hi, I'm Luiz Henrique Birck Vicari, I have a degree in Computer Engineering, and I'm currently doing my master's degree in the Post-Graduate Program in Electrical and Computer Engineering at UTFPR and specializing in programming for mobile devices at the same university. I'm from Pato Branco, Paraná, Brazil.</p>
           <p>:latin_cross: My religion is Christianity.</p>
-          <p>:telescope: Currently I am developing programs for college assignments.</p>
-          <p>:seedling: I am studying backend web development using Django and Data Science</p>
-          <p>:desktop_computer:: My preferred working environment is Visual Studio Code, however I have worked with Pycharm, IntellijIdea, CodeBlocks and Code Composer Studio</p>
+          <p>:telescope: I'm currently developing personal projects and for my studies.</p>
+          <p>:seedling: I am studying backend web development and Data Science.</p>
 </div>
 <div>
           <p>Linguagens / Languages:</p>
