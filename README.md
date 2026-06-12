@@ -1,30 +1,62 @@
-<h1> Hi, my name is Luiz Henrique Birck Vicari </h1>
-<b>This README file is available in Portuguese and English</b>
-<div>
-          <p>:brazil::</p>
-          <p>Olá, eu sou Luiz Henrique Birck Vicari, sou graduado em Engenharia de Computação, e atualmente estou fazendo meu mestrado no Programa de Pós Graduação em Engenharia Elétrica e da Computação, pela UTFPR e cursando a especialização em programação para dispositivos móveis na mesma universidade. Sou natural de Pato Branco, Paraná, Brasil.</p>
-          <p>:latin_cross:: Minha religião é Cristã.</p>
-          <p>:telescope: Atualmente estou desenvolvendo projetos pessoais e para os meus estudos.</p>
-          <p>:seedling: Estou estudando desenvolvimento web backend e ciência de dados.</p>
-</div>
+<h1 align="center">Hi, I'm Luiz Henrique Birck Vicari 👋</h1>
 
-<div>
-          <p>:us::</p>
-          <p>Hi, I'm Luiz Henrique Birck Vicari, I have a degree in Computer Engineering, and I'm currently doing my master's degree in the Post-Graduate Program in Electrical and Computer Engineering at UTFPR and specializing in programming for mobile devices at the same university. I'm from Pato Branco, Paraná, Brazil.</p>
-          <p>:latin_cross: My religion is Christianity.</p>
-          <p>:telescope: I'm currently developing personal projects and for my studies.</p>
-          <p>:seedling: I am studying backend web development and Data Science.</p>
-</div>
-<div>
-          <p>Linguagens / Languages:</p>
-          <p>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10%"/> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="10%"/> 
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="10%"/> 
-          </p>
-</div>
+<p align="center">
+  <b>Full Stack Developer</b> · Computer Engineer · MSc Student in Computer Engineering
+</p>
 
-Meu status atual no Github / My current status on Github:<p>
-![LuizHVicari Status](https://github-readme-stats.vercel.app/api?username=LuizHVicari&show_icons=true)<p>
-Minhas linguagens de programação mais comuns / My most common programming languages:<p>
-![Most common languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHVicari&hide=css,html)
+<p align="center">
+  <a href="https://www.linkedin.com/in/luizhvicari/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ikvicari@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### 🧑‍💻 About me
+
+- 🎓 **BSc in Computer Engineering** and **Postgraduate in Software Development**
+- 📚 Currently an **MSc student in Computer Engineering**
+- 💼 Working as a **Full Stack Developer**, building backend services and modern web applications
+- 🌱 Always exploring new languages, tools and architectures
+- 📍 From Pato Branco, Paraná, Brazil
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Runtimes & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuizHVicari&show_icons=true&theme=tokyonight&hide_border=true" alt="LuizHVicari's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHVicari&layout=compact&theme=tokyonight&hide_border=true&hide=css,html" alt="Top languages"/>
+</p>
